@@ -7,5 +7,6 @@ public class Example2 {
                 var2=var1/2;
         System.out.print("Переменная var2 содержит var1/2: ");
         System.out.println(var2);
+        System.out.println("test case for hw1");
     }
 }
